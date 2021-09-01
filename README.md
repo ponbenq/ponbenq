@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ponbenq
-- 👀 I’m interested in cybersecurity and others programming
+- 👀 I’m interested in cybersecurity and others programming things
 - 🌱 I’m currently learning python
 - 📫 How to reach me @WC_ZZEN
 
