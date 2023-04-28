@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ponbenq
 - 👀 I’m interested in cybersecurity and others programming things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning basic Linux.
 - 📫 How to reach me @WC_ZZEN
 
 <!---
