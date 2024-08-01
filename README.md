@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ponbenq
-- 👀 I’m interested in cybersecurity and others programming things
-- 🌱 I’m currently learning basic Linux.
+- 👀 I’m interested in Cybersecurity and XAI and other explainable ai
+- 📓 I’m currently learning about Twofish algorithm and find ways to implement my own
 - 📫 How to reach me ...
 
 <!---
